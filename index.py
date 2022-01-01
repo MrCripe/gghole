@@ -9,7 +9,7 @@ client.start()
 
 client.stop()
 
-print('Бот запущен, теперь ты - Гуль')
+print('Ты позер если это запустил, и да Аня топ')
 
 
 @client.on_message(filters.regex('Я гуль|я гуль') & filters.me)
