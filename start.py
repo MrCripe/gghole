@@ -12,7 +12,7 @@ client.stop()
 print('Ты позер если это запустил и да Аня топ')
 
 
-@client.on_message(filters.regex('Я гуль|я гуль') & filters.me)
+@client.on_message(filters.regex('Я гуль|Я хуй') & filters.me)
 def ghoul_spam_handler(client, message):
     i = 1000
     while i > 0:
