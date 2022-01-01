@@ -19,7 +19,7 @@ ___
 	pip install pyrogram
 *Клонируем репозиторий*
 
-	git clone https://github.com/
+	git clone https://github.com/MrCripe/gghole
 **После установки перейдите в раздел [*Запуск*](#Запуск)**<br>
 
 ___
